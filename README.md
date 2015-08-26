@@ -9,7 +9,7 @@ Contents
 
 * [Apache](#apache)
 * [Chrome](#chrome)
-* [Competitive Programming][#competitive-programming]
+* [Competitive Programming](#competitive-programming)
 * [Linux](#linux)
 
 ### Apache
