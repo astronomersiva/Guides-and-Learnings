@@ -9,6 +9,7 @@ Contents
 
 * [Apache](#apache)
 * [Chrome](#chrome)
+* [Competitive Programming][#competitive-programming]
 * [Linux](#linux)
 
 ### Apache
@@ -18,6 +19,9 @@ Contents
 * [Security tips](http://www.tecmint.com/apache-security-tips/)
 * [Subdomains](http://stackoverflow.com/questions/4203580/creating-subdomains-in-amazon-ec2)
 
+### Competitive Programming
+
+* [Huge factorials](https://discuss.codechef.com/questions/7349/computing-factorials-of-a-huge-number-in-cc-a-tutorial)
 ### Chrome
 
 * [Accessing Chrome data](http://digital-forensics.sans.org/blog/2010/01/21/google-chrome-forensics/)
