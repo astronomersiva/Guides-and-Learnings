@@ -25,7 +25,7 @@ Contents
 
 ### Competitive Programming
 
-* [Huge factorials](https://discuss.codechef.com/questions/7349/computing-facto$
+* [Huge factorials](https://discuss.codechef.com/questions/7349/computing-factorials-of-a-huge-number-in-cc-a-tutorial)
 
 ### Linux
 
