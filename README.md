@@ -24,5 +24,5 @@ Contents
 
 ### Linux
 
-*[Move files to parent dir](http://stackoverflow.com/questions/20192070/how-to-move-all-files-including-hidden-files-into-parent-directory-via)
+* [Move files to parent dir](http://stackoverflow.com/questions/20192070/how-to-move-all-files-including-hidden-files-into-parent-directory-via)
 
