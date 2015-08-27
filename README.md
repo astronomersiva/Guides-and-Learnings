@@ -11,6 +11,7 @@ Contents
 * [Chrome](#chrome)
 * [Competitive Programming](#competitive-programming)
 * [Linux](#linux)
+* [Miscellaneous](#miscellaneous)
 
 ### Apache
 
@@ -31,3 +32,6 @@ Contents
 
 * [Move files to parent dir](http://stackoverflow.com/questions/20192070/how-to-move-all-files-including-hidden-files-into-parent-directory-via)
 
+### Miscellaneous
+
+* [Paul Ford - What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
