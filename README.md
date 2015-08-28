@@ -10,6 +10,7 @@ Contents
 * [Apache](#apache)
 * [Chrome](#chrome)
 * [Competitive Programming](#competitive-programming)
+* [Flask](#flask)
 * [Linux](#linux)
 * [Miscellaneous](#miscellaneous)
 
@@ -27,6 +28,10 @@ Contents
 ### Competitive Programming
 
 * [Huge factorials](https://discuss.codechef.com/questions/7349/computing-factorials-of-a-huge-number-in-cc-a-tutorial)
+
+### Flask
+
+* [Mega Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ### Linux
 
